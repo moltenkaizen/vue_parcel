@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^8.6.4",
-    "postcss-modules": "^1.1.0",
+    "postcss-modules": "^1.5.0",
     "vue": "^2.5.16",
     "vue-hot-reload-api": "^2.3.0"
   },
